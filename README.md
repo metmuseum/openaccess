@@ -11,7 +11,7 @@ At this time, the datasets are available in CSV format, encoded in UTF-8. While 
 
 ## Additional usage guidelines
 ### Images not included
-Images are not included and are not part of the dataset. Companion artworks listed in the dataset covered by the policy are identified in the Collection section of the Museum’s website [http://www.metmuseum.org/art/collection] with the Creative Commons Zero (CC0) icon. 
+Images are not included and are not part of the dataset. Companion artworks listed in the dataset covered by the policy are identified in the [Collection section](http://www.metmuseum.org/art/collection) of the Museum’s website  with the Creative Commons Zero (CC0) icon. 
 
 For more details on how to useimages of artworks in The Metropolitan Museum of Art’s collection, please visit our [Open Access](http://www.metmuseum.org/about-the-met/policies-and-documents/image-resources) page.
 
