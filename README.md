@@ -23,9 +23,6 @@ We plan to update the datasets with new and revised information on a regular bas
 ### Pull requests
 Because these datasets are generated from our internal database, we do *not* accept pull requests. If you have identified errors or have extra information to share, please email us at [open-access@metmuseum.org](mailto:open-access@metmuseum.org) and we will forward to the appropriate department for review.
 
-### Attribution
-Please consider attributing or citing The Metropolitan Museum of Art's CC0 select datasets with its digital object identifier [insert DOI], especially with respect to research or publication, using our digital object identifier. Attribution supports efforts to release other datasets in the future. It also reduces the amount of "orphaned data," helping to retain source links.
-
 ### Do not misrepresent the dataset
 Do not mislead others or misrepresent the datasets or their source. You must not use The Metropolitan Museum of Art’s trademarks or otherwise claim or imply that the Museum or any other third party endorses you or your use of the dataset.
 
