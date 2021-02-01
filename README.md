@@ -23,6 +23,16 @@ We plan to update the datasets with new and revised information on a regular bas
 ### Pull requests
 Because these datasets are generated from our internal database, we do *not* accept pull requests. If you have identified errors or have extra information to share, please email us at [openaccess@metmuseum.org](mailto:openaccess@metmuseum.org) and we will forward to the appropriate department for review.
 
+### How to clone/download the data file
+
+**Download**: In order to properly download the CSV file and not load the entire file in the browser, visit [this page](https://github.com/metmuseum/openaccess/blob/master/MetObjects.csv) and then right-click on "Download" (if you are using a computer with a trackpad, hold down <kbd>control</kbd> while clicking the link). You should then see a contextual menu where you can choose "Save Link As..."
+
+**Clone**: Note that the CSV file is stored using Git's LFS (large-file storage) system. If you want to clone the repository, you need to run the following command on your console (Terminal on macOS / Git Bash on Windows):
+
+```console
+$ git lfs clone https://github.com/metmuseum/openaccess
+```
+
 ### Attribution
 Please consider attributing or citing The Metropolitan Museum of Art's CC0 select datasets, especially with respect to research or publication. Attribution supports efforts to release other datasets in the future. It also reduces the amount of "orphaned data," helping to retain source links.
 
