@@ -30,7 +30,7 @@ Because these datasets are generated from our internal database, we do *not* acc
 **Clone**: Note that the CSV file is stored using Git's LFS (large-file storage) system. If you want to clone the repository, you need to run the following command on your console (Terminal on macOS / Git Bash on Windows):
 
 ```console
-$ git lfs clone https://github.com/metmuseum/openaccess
+git lfs clone https://github.com/metmuseum/openaccess
 ```
 
 ### Attribution
